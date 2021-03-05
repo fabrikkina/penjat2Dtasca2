@@ -12,7 +12,7 @@ public class Puntuacio {
     private float temps;
     private final String[] paraules1 = {"cargol","porc","aranya","patates","farina","nabiu","elefant"};
     private final String[] paraules2 = {"periquito", "peix espasa","nectarina", "peix daurat","xinxilla","armadillo","llenties"};
-    private final String[] paraules3 = {"escombraries","escopinyes","engronxador","desnonament","malhauradament","malbaratament",};
+    private final String[] paraules3 = {"escombraries","escopinyes","engronxador","desnonament","malhauradament","malbaratament"};
     private final String[] letresBonus = {"x", "h", "y"};
 
     public int getIntents() {
