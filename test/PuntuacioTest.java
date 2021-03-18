@@ -1,6 +1,9 @@
+/**
+ * Esta clase PuntuacioTest forma parque del paquete test
+ */
 package test;
 /**
- * Esta clase TaulerTest forma parque del paquete test
+ * imports necesarios para esta clase
  */
 import com.jaume.penjat.Puntuacio;
 import org.junit.jupiter.params.ParameterizedTest;
