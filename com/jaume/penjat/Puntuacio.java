@@ -5,6 +5,8 @@ import java.util.Random;
 
 public class Puntuacio {
 
+
+
     private String paraula = "";
     private int dificultat = 0;
     private int intents = 0;
@@ -13,6 +15,9 @@ public class Puntuacio {
     private final String[] paraules1 = {"cargol","porc","aranya","patates","farina","nabiu","elefant"};
     private final String[] paraules2 = {"periquito", "peix espasa","nectarina", "peix daurat","xinxilla","armadillo","llenties"};
     private final String[] paraules3 = {"escombraries","escopinyes","engronxador","desnonament","malhauradament","malbaratament"};
+
+
+
     private final String[] letresBonus = {"x", "h", "y"};
 
     public int getIntents() {
@@ -90,5 +95,24 @@ public class Puntuacio {
         return Arrays.stream(items).anyMatch(inputStr::contains);
     }
 
+    //getters y setters
 
+    public String getParaula() {
+        return paraula;
+    }
+
+    public void setParaula(String paraula) {
+        this.paraula = paraula;
+    }
+    public String[] getParaules1() {
+        return paraules1;
+    }
+
+    public String[] getParaules2() {
+        return paraules2;
+    }
+
+    public String[] getParaules3() {
+        return paraules3;
+    }
 }

@@ -1,3 +1,6 @@
+/**
+ * Esta clase TaulerTest forma parque del paquete test
+ */
 package test;
 
 import com.jaume.penjat.Tauler;
@@ -6,6 +9,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+/**
+ * Esta clase TaulerTest se utiliza para probar casos de la clase Tualer
+ *  * @author Amilcar Quinatoa
+ *  * @version 1.2
+ *  */
 class TaulerTest {
 
     private Tauler tauler;
