@@ -1,7 +1,9 @@
 package com.jaume.penjat;
 
 import java.awt.*;
-
+/**
+ * Esta clase Penjat forma parque del paquete com.jaume.penjat
+ */
 public class Penjat {
 
     public static void main(String[] args) {

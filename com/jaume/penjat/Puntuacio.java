@@ -6,6 +6,9 @@ package com.jaume.penjat;
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * Esta clase Puntuacio forma parque del paquete com.jaume.penjat
+ */
 public class Puntuacio {
 
 
