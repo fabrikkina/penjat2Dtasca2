@@ -9,7 +9,9 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Esta clase Util forma parque del paquete com.jaume.penjat
+ * Esta clase Tauler Util forma parque del paquete com.jaume.penjat
+ * @author Amilcar Quinatoa
+ * @version 1.2
  */
 public class Util {
     /**

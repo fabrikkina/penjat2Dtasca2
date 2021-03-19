@@ -1,6 +1,8 @@
 package com.jaume.penjat;
 /**
- * Esta clase Tauler forma parque del paquete com.jaume.penjat
+ * Esta clase Tauler tiene las distintas funciones o metodos del juego
+ * @author Amilcar Quinatoa
+ * @version 1.2
  */
 public class Tauler {
     /**

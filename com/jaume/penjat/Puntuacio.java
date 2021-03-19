@@ -1,13 +1,14 @@
-/**
- * Esta clase Puntuacio forma parque del paquete com.jaume.penjat
- */
+
 package com.jaume.penjat;
 
 import java.util.Arrays;
 import java.util.Random;
 
 /**
- * Esta clase Puntuacio forma parque del paquete com.jaume.penjat
+ * Esta clase Puntuacio forma parque del paquete com.jaume.penjat sirve
+ * para la puntuación del programa según la dificultad del juego.
+ * @author Amilcar Quinatoa
+ * @version 1.2
  */
 public class Puntuacio {
 

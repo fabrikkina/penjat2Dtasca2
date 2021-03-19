@@ -3,6 +3,8 @@ package com.jaume.penjat;
 import java.awt.*;
 /**
  * Esta clase Penjat forma parque del paquete com.jaume.penjat
+ * @author Amilcar Quinatoa
+ * @version 1.2
  */
 public class Penjat {
 
