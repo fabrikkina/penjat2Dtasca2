@@ -1,8 +1,7 @@
-/**
- * Esta clase Tauker forma parque del paquete com.jaume.penjat
- */
 package com.jaume.penjat;
-
+/**
+ * Esta clase Tauler forma parque del paquete com.jaume.penjat
+ */
 public class Tauler {
     /**
      * Un atributo, dato llamado paraulaSecreta del tipo de dato char[], que

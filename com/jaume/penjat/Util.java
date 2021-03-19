@@ -1,6 +1,3 @@
-/**
- * Esta clase Util forma parque del paquete com.jaume.penjat
- */
 package com.jaume.penjat;
 
 import java.awt.*;
@@ -11,11 +8,21 @@ import java.io.InputStreamReader;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-
+/**
+ * Esta clase Util forma parque del paquete com.jaume.penjat
+ */
 public class Util {
-
-
+    /**
+     * makeQuestion
+     * Un método estático que devuelve un String. Del enunciado o un error.
+     * @param enunciat de tipo String
+     * @return valor
+     */
     public static String makeQuestion(String enunciat){
+        /**
+         * Un dato llamado valor que inicializa una cadena
+         * de tipo String vacio.
+         */
         String valor = " ";
         try {
             InputStreamReader isr = new InputStreamReader(System.in);
@@ -27,7 +34,12 @@ public class Util {
         }
         return valor;
         }
-
+    /**
+     * isNumeric
+     * Un método estático que devuelve un booleano.
+     * @param cadena de tipo String
+     * @return un booleano
+     */
     public static boolean isNumeric(String cadena){
         try {
             Integer.parseInt(cadena);
