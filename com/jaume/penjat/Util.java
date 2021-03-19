@@ -1,3 +1,6 @@
+/**
+ * Esta clase Util forma parque del paquete com.jaume.penjat
+ */
 package com.jaume.penjat;
 
 import java.awt.*;

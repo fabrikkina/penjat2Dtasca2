@@ -1,3 +1,6 @@
+/**
+ * Esta clase Tauker forma parque del paquete com.jaume.penjat
+ */
 package com.jaume.penjat;
 
 public class Tauler {

@@ -1,3 +1,6 @@
+/**
+ * Esta clase Puntuacio forma parque del paquete com.jaume.penjat
+ */
 package com.jaume.penjat;
 
 import java.util.Arrays;
